@@ -52,6 +52,7 @@
 - Gonçalo Sousa 
 - Daniel Duarte
 - Paul Thiel
+- Cássia Chagas
 
 
 <br>
