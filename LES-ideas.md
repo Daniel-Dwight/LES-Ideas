@@ -109,7 +109,7 @@
 <br>
 
 **Target userbase:**
-- Pet owners/caretakers
+- Pet owners and caretakers (family members, friends, pet sitters)
 
 <br>
 
@@ -120,21 +120,22 @@
 <br>
 
 **Page example:**
-- ...
+- **Pet Dashboard:** A central page showing the pet’s information, today’s care tasks, upcoming appointments and recently completed activities.
 
 <br>
 
 **Five (more or less) feature ideas:**
-- ...
-- 
-- 
-- 
-- 
+- Create and manage a pet profile with relevant information and care instructions.
+- Create recurring care tasks such as feeding, walking or medication.
+- Assign tasks to different caretakers and track their completion.
+- Manage vet appointments and other important events.
+- View a history of completed tasks and care activities.
 
 <br>
 
 **(Optional) relevant extra information:**
-- ...
+- The main focus would be on shared responsibility and coordination, rather than only storing information about the pet.
+-  The system could later evolve to include reminders/notifications, different permission levels, and more advanced care tracking.
 
 <br>
 
@@ -156,7 +157,7 @@
 <br>
 
 **Target userbase:**
-- People who enjoy travelling/going out in groups. 
+- People who enjoy travelling/going out in groups (such as friends, families, students or colleagues planning trips together).
 
 <br>
 
@@ -167,21 +168,20 @@
 <br>
 
 **Page example:**
-- ...
+- **Trip Dashboard:** A central page showing the trip itinerary, proposed activities, group votes, participants, budget and shared expenses.
 
 <br>
 
 **Five (more or less) feature ideas:**
-- ...
-- 
-- 
-- 
-- 
+- Create trips and invite other participants to collaborate on the plans.
+- Suggest activities and let participants vote on their preferences.
+- Track shared expenses and calculate how much each participant owes.
+- Manage participants’ availability, preferences and budget limits to help the group make decisions.
 
 <br>
 
 **(Optional) relevant extra information:**
-- ...
+- The main focus would be on collaborative planning and group decision-making, rather than just creating an itinerary.
 
 <br>
 
@@ -232,7 +232,8 @@
 <br>
 
 **Support:**
-- Paul Thiel 
+- Paul Thiel
+- Cássia Chagas
 
 <br>
 ---
