@@ -142,6 +142,7 @@
 - Cássia Chagas
 - Daniel Duarte
 - Paul Thiel
+- Pedro Monteiro
 
 <br>
 
@@ -188,6 +189,7 @@
 - Gonçalo Sousa 
 - Cássia Chagas
 - Paul Thiel
+- Pedro Monteiro
 
 <br>
 
@@ -273,3 +275,27 @@
 
 **Support:**
 - Daniel Duarte 
+
+
+## 7. Academic Internship Aggregator
+
+**Target userbase:**
+- Master students
+- University professors
+- Company HR
+- Course Coordinators.
+
+<br>
+
+**Vision:**
+- Streamline the submission, vetting, and matching process for master thesis topics and accredited software engineering internships.
+
+**Five feature ideas:**
+- Companies submit project proposals and academic directors review and approve them before they open for student applications.
+- Students apply to up to some topics ranked by preference and automated matching suggests optimal pairings based on GPA/preference/etc.
+- Tracks mandatory intermediate deliverables.
+- Dual-approval portal for grading dissertation milestones and internship attendance.
+- Catalog of past completed proposals, associated companies, and final reports.
+
+**Support:**
+- Pedro Monteiro
