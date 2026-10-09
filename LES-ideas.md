@@ -51,6 +51,8 @@
 **Support:**
 - Gonçalo Sousa 
 - Daniel Duarte
+- Paul Thiel
+
 
 <br>
 
@@ -138,7 +140,8 @@
 
 **Support:**
 - Cássia Chagas
-- Daniel Duarte 
+- Daniel Duarte
+- Paul Thiel
 
 <br>
 
@@ -183,7 +186,8 @@
 
 **Support:**
 - Gonçalo Sousa 
-- Cássia Chagas 
+- Cássia Chagas
+- Paul Thiel
 
 <br>
 
@@ -194,35 +198,34 @@
 ## 5. Language QuizDuel Application 
 ### Paul Thiel
 
-<br>
-
 **Target userbase:**
-- People trying to learn a language 
+- People trying to learn a language, mainly university students and young adults at beginner to intermediate level (A1-B2)
+- Learners who want short, low-pressure practice sessions, ideally with friends or classmates
 
 <br>
 
 **Vision:**
-
-- An application that, like Quizduel, hosts quizzes engolfing small grammar and vocabulary questions. Through these quizzes the application would allow different "players" to "compete" to see who gets the most questions right. 
+- An application that, like Quizduel, hosts quizzes engolfing small grammar and vocabulary questions. Through these quizzes the application would allow different "players" to "compete" to see who gets the most questions right.
+- Each match consists of a few short rounds. The player with the most correct answers wins and earns rating points, which makes everyday practice feel like a game.
 
 <br>
 
 **Page example:**
-- ...
+- Similar to Quizduell
 
 <br>
 
 **Five (more or less) feature ideas:**
-- ...
-- 
-- 
-- 
-- 
+- **Asynchronous 1v1 duels:** challenge a friend or a random opponent and play your rounds in turns, so nobody has to be online at the same time
+- **Question categories and levels:** vocabulary, grammar, conjugation and fill-in-the-blank, tagged by CEFR level, with matchmaking by level
+- **Ranking and progression:** Elo-style rating, XP, daily streaks and weekly leagues
+- **Mistake review mode:** wrong answers are saved to a personal list for solo practice with spaced repetition
+- **User-generated question packs:** teachers or learners create and share question sets (for example "Chapter 4 of our course"), with basic moderation
+- **(Bonus) Class tournaments:** live multiplayer rooms with a join code
 
-<br>
 
 **(Optional) relevant extra information:**
-- ...
+- n/a
 
 <br>
 
